@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="576" startPos="0" endPos="0" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Windows\system32\drivers\etc\hosts" backupFilePath="" originalFileLastModifTimestamp="1713386336" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="3342418" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="957" xOffset="0" scrollWidth="640" startPos="38314" endPos="38317" selMode="0" lang="INI file" encoding="-1" filename="C:\laragon\bin\php\php-8.3.6-Win32-vs16-x64\php.ini" backupFilePath="" originalFileLastModifTimestamp="1713386672" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
